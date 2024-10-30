@@ -1,0 +1,21 @@
+name,url,description,site,price,teacher
+Mathematics Basics,http://example.com/math,Intro to basic math,50,Mathematics Basics
+Advanced Physics,http://example.com/physics,Learn advanced physics concepts,75,Jane Smith
+Computer Science 101,http://example.com/cs101,Intro to CS for beginners,100,Emily Johnson
+Literature Studies,http://example.com/lit,Analysis of classic literature,60,Michael Brown
+Chemistry 101,http://example.com/chem,Intro to chemistry principles,85,Sarah Davis
+Biology Basics,http://example.com/bio,Basic biology for beginners,70,David Wilson
+History of Art,http://example.com/art,Exploring the history of art,90,Laura Garcia
+English Grammar,http://example.com/grammar,Grammar for intermediate learners,45,James Martinez
+French Language,http://example.com/french,Learn conversational French,80,Sophia Anderson
+Digital Marketing,http://example.com/marketing,Intro to digital marketing,120,William Thomas
+Psychology 101,http://example.com/psych,Understanding basic psychology,95,Isabella Lee
+Sociology Basics,http://example.com/socio,Intro to sociology concepts,65,Oliver White
+Public Speaking,http://example.com/speak,Develop speaking skills,55,Lucas Harris
+Photography Essentials,http://example.com/photo,Basics of photography,110,Mia Clark
+Web Development,http://example.com/webdev,Learn HTML, CSS, and JS,130,Ethan Lewis
+Music Theory,http://example.com/music,Fundamentals of music theory,75,Ava Walker
+Physics Experiments,http://example.com/exp,Hands-on physics labs,100,Alexander Hall
+Data Analysis,http://example.com/data,Intro to data analysis tools,115,Grace Allen
+Graphic Design,http://example.com/design,Learn design basics,125,Daniel Young
+Spanish Language,http://example.com/spanish,Intro to Spanish for beginners,60,Sophia King

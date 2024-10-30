@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Introduction to Mathematics", "description": "Basic concepts in mathematics.", "video_url": "http://example.com/videos/math_intro.mp4", "course_id": 1 },
+    { "id": 2, "name": "Physics Fundamentals", "description": "Key concepts in physics.", "video_url": "http://example.com/videos/physics_fundamentals.mp4", "course_id": 2 },
+    { "id": 3, "name": "Intro to Computer Science", "description": "Basics of computer science.", "video_url": "http://example.com/videos/cs_intro.mp4", "course_id": 3 },
+    { "id": 4, "name": "Literary Analysis", "description": "Introduction to literary analysis.", "video_url": "http://example.com/videos/lit_analysis.mp4", "course_id": 4 },
+    { "id": 5, "name": "Chemistry Basics", "description": "Foundational chemistry concepts.", "video_url": "http://example.com/videos/chem_basics.mp4", "course_id": 5 },
+    { "id": 6, "name": "Introductory Biology", "description": "Basic principles of biology.", "video_url": "http://example.com/videos/bio_intro.mp4", "course_id": 6 },
+    { "id": 7, "name": "Art History Overview", "description": "Exploring art history.", "video_url": "http://example.com/videos/art_history.mp4", "course_id": 7 },
+    { "id": 8, "name": "Grammar Essentials", "description": "English grammar basics.", "video_url": "http://example.com/videos/grammar.mp4", "course_id": 8 },
+    { "id": 9, "name": "French Conversation", "description": "Basic conversational French.", "video_url": "http://example.com/videos/french.mp4", "course_id": 9 },
+    { "id": 10, "name": "Digital Marketing Introduction", "description": "Fundamentals of digital marketing.", "video_url": "http://example.com/videos/marketing.mp4", "course_id": 10 },
+    { "id": 11, "name": "Psychology Basics", "description": "Key concepts in psychology.", "video_url": "http://example.com/videos/psychology.mp4", "course_id": 11 },
+    { "id": 12, "name": "Sociology Overview", "description": "Foundational sociology concepts.", "video_url": "http://example.com/videos/sociology.mp4", "course_id": 12 },
+    { "id": 13, "name": "Public Speaking Techniques", "description": "Develop effective speaking skills.", "video_url": "http://example.com/videos/speaking.mp4", "course_id": 13 },
+    { "id": 14, "name": "Photography Basics", "description": "Intro to photography techniques.", "video_url": "http://example.com/videos/photography.mp4", "course_id": 14 },
+    { "id": 15, "name": "Web Development", "description": "Learn HTML, CSS, and JS.", "video_url": "http://example.com/videos/webdev.mp4", "course_id": 15 },
+    { "id": 16, "name": "Music Theory Intro", "description": "Basic music theory.", "video_url": "http://example.com/videos/music_theory.mp4", "course_id": 16 },
+    { "id": 17, "name": "Physics Experiments", "description": "Physics lab exercises.", "video_url": "http://example.com/videos/physics_exp.mp4", "course_id": 17 },
+    { "id": 18, "name": "Data Analysis Basics", "description": "Introduction to data analysis.", "video_url": "http://example.com/videos/data_analysis.mp4", "course_id": 18 },
+    { "id": 19, "name": "Intro to Graphic Design", "description": "Learn graphic design.", "video_url": "http://example.com/videos/graphic_design.mp4", "course_id": 19 },
+    { "id": 20, "name": "Spanish Language Basics", "description": "Introductory Spanish language course.", "video_url": "http://example.com/videos/spanish.mp4", "course_id": 20 }
+]

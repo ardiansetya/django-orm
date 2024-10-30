@@ -1,0 +1,22 @@
+[
+    { "id": 1, "content_id": 1, "user_id": 1, "comment": "Very informative introduction!" },
+    { "id": 2, "content_id": 2, "user_id": 2, "comment": "Physics fundamentals are well explained." },
+    { "id": 3, "content_id": 3, "user_id": 3, "comment": "Great overview of computer science!" },
+    { "id": 4, "content_id": 4, "user_id": 4, "comment": "Loved the literary analysis approach." },
+    { "id": 5, "content_id": 5, "user_id": 5, "comment": "Perfect introduction to chemistry." },
+    { "id": 6, "content_id": 6, "user_id": 6, "comment": "Biology basics are well covered." },
+    { "id": 7, "content_id": 7, "user_id": 7, "comment": "Interesting take on art history." },
+    { "id": 8, "content_id": 8, "user_id": 8, "comment": "Grammar rules are easy to follow." },
+    { "id": 9, "content_id": 9, "user_id": 9, "comment": "A good start to French language." },
+    { "id": 10, "content_id": 10, "user_id": 10, "comment": "Useful digital marketing tips." },
+    { "id": 11, "content_id": 11, "user_id": 11, "comment": "Psychology basics well laid out." },
+    { "id": 12, "content_id": 12, "user_id": 12, "comment": "Sociology concepts are clear." },
+    { "id": 13, "content_id": 13, "user_id": 13, "comment": "Public speaking tips are helpful." },
+    { "id": 14, "content_id": 14, "user_id": 14, "comment": "Great photography basics overview." },
+    { "id": 15, "content_id": 15, "user_id": 15, "comment": "Loved the web development intro." },
+    { "id": 16, "content_id": 16, "user_id": 16, "comment": "Music theory made easy to understand." },
+    { "id": 17, "content_id": 17, "user_id": 17, "comment": "Physics experiments are hands-on!" },
+    { "id": 18, "content_id": 18, "user_id": 18, "comment": "Good introduction to data analysis." },
+    { "id": 19, "content_id": 19, "user_id": 19, "comment": "Graphic design basics are great." },
+    { "id": 20, "content_id": 20, "user_id": 20, "comment": "Excited to start learning Spanish!" }
+]
